@@ -1,0 +1,1 @@
+print five elements of an array using do and do while loop
